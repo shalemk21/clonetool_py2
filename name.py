@@ -4,3 +4,4 @@ contact=input("enter u r number")
 
 print("Your full name is ",name,"",surname)
 print("Your contact number is",contact)
+print("U R Surname",surname)
